@@ -1,6 +1,6 @@
 public class CICDDemo {
     
     public static String sayHello() {
-        return 'Hello CI/CD';
+        return 'Hello CI/CD  v2';
     }
 }
